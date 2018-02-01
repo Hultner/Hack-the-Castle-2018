@@ -1,15 +1,12 @@
-# Amazing Project Name
-A short description of our project
+# Working Name Quizshore
+This is a non-competing project, my idea is to build a QuizBot.
 
 ## Background
-Some optional background information to give the project some depth
+I'd like to have a Messenger bot for fun quizes.
 
 ## Team
-Amazing team name!!
+Not really a team in the hack, just for fun
 - Alexander Hultnér
-- Anton Levholm
-- Member Memberson
-- Finalia Indigroup
 
 ## Setup instructions
 Explain how to set up the project
@@ -20,7 +17,6 @@ $ pipenv install
 $ pipenv run app.py
 ```
 Then visit [localhost:8000/amazing](http://localhost:8000/amazing)
-
 
 ## Demo
 If applicable put a link to a live demo here, maybe with some short instructions.
